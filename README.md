@@ -1,6 +1,6 @@
 # 🛍️ Dashboard Admin E-Commerce (Light Mode)
 
-![Cover](./Cover.png)
+![Cover](./cover.png)
 
 Ini adalah proyek **Dashboard Admin E-Commerce** versi Light Mode yang dirancang untuk memudahkan pengelolaan data e-commerce seperti produk, pelanggan, transaksi, dan informasi admin. Dashboard ini dibangun dengan arsitektur modern dan UI profesional menggunakan:
 
